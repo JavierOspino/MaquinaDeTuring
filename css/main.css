@@ -1,0 +1,38 @@
+/*General*/
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.Logo, img {
+    width: 100px;
+}
+
+.TitleLogo {
+    font-size: 50px;
+}
+.card-body {
+    padding: 0;
+}
+.wrap {
+    margin: 0;
+}
+
+#pasos{
+    font-weight: 600;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#pasosp{
+    font-size: xx-large;
+    font-weight: bold;
+}
+#estado{
+    font-weight: 600;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#pasose{
+    font-size: xx-large;
+    font-weight: bold;
+}
